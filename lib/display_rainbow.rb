@@ -8,5 +8,5 @@ def display_rainbow(colors)
   puts "The third letter in the alphabet is: #{rainbow_colors[4]}"
   puts "The third letter in the alphabet is: #{rainbow_colors[5]}"
   puts "The third letter in the alphabet is: #{rainbow_colors[6]}"
-  
+
 end

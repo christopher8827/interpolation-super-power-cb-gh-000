@@ -6,4 +6,3 @@ def display_rainbow(colors)
   puts "The third letter in the alphabet is: #{rainbow_colors[2]}"
   puts
 end
-

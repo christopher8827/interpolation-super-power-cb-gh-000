@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  rainbow_colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-  puts "R: #{red[0]}"
+  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+  puts "R: #{colors[0]}"
   #puts "The second letter in the alphabet is: #{rainbow_colors[1]}"
   #puts "The third letter in the alphabet is: #{rainbow_colors[2]}"
   #puts "The third letter in the alphabet is: #{rainbow_colors[3]}"
